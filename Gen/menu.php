@@ -34,7 +34,8 @@
                                 <div class="header-icons">
                                     <a class="shopping-cart" href="./cart.php"><i class="fas fa-shopping-cart"></i></a>
                                     <a class="mobile-hide search-bar-icon" href="#"><i class="fas fa-search"></i></a>
-                                    <a class="mobile-hide" href="./Page/production/index.php"><i class="fa fa-user" aria-hidden="true"></i></a>
+                                    <a class="mobile-hide" href="./login.php"><i class="fa fa-user" aria-hidden="true"></i></a>
+                                    <a class="mobile-hide" href="./Page/production/index.php"><i class="fa fa-home" aria-hidden="true"></i></a>
                                 </div>
                             </li>
                         </ul>
