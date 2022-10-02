@@ -1,0 +1,46 @@
+.count {
+    color: brown;
+}
+
+.form-group > label {
+    font-size: large;
+}
+
+.bb {
+    font-weight: 400;
+    color: rgb(52, 51, 51);
+}
+
+.x_title > h2 {
+    color: brown;
+    font-size: xx-large;
+    margin-bottom: 15px;
+}
+
+.text-input-find {
+    height: 37px;
+    width: 30%;
+}
+
+#sort-top {
+    height: 38px;
+    font-size: large;
+    color: rgb(89, 187, 190);
+}
+
+#datatable-checkbox {
+    text-align: center;
+}
+
+.margin-info {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.crop-avatar img {
+    display: block;
+    max-width:230px;
+    max-height:95px;
+    width: auto;
+    height: auto;
+}
