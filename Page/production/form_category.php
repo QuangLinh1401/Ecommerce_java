@@ -24,7 +24,7 @@
                 <div class="">
                     <div class="page-title">
                         <div class="title_left">
-                            <h3>Form Slider</h3>
+                            <h3>Form Category</h3>
                         </div>
                     </div>
                     <div class="clearfix"></div>
@@ -33,7 +33,7 @@
                         <div class="col-md-12 col-sm-12">
                             <div class="x_panel">
                                 <div class="x_title">
-                                    <h2>Add Slider</h2>
+                                    <h2>Add Category</h2>
                                     <div class="clearfix"></div>
                                 </div>
                                 <div class="x_content">
@@ -83,7 +83,7 @@
                                         <div class="form-group aaaa">
                                             <div class="col-md-6 offset-md-3">
                                                 <button type='submit' class="btn btn-primary">Submit</button>
-                                                <a href="./slider.php"><button type="button" class="btn btn-outline-info">Undo</button></a>
+                                                <a href="./Category.php"><button type="button" class="btn btn-outline-info">Undo</button></a>
                                             </div>
                                         </div>
                                     </form>

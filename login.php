@@ -66,7 +66,10 @@
             <form>
               <h1>Create Account</h1>
               <div>
-                <input type="text" class="form-control" placeholder="Username" required="" />
+                <input type="text" class="form-control" placeholder="First Name" required="" />
+              </div>
+              <div>
+                <input type="text" class="form-control" placeholder="Last Name" required="" />
               </div>
               <div>
                 <input type="email" class="form-control" placeholder="Email" required="" />

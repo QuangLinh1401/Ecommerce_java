@@ -71,7 +71,7 @@
                     <th><input type="checkbox" id="check-all" class="jus"></th>
                     <td>1</td>
                     <td>Shad Decker</td>
-                    <td><img src="../assets/images/logo.png" alt=""></td>
+                    <td><img src="./images/Ex.png" alt="" width="80" height="80"></td>
                     <td>Appetizer was changed</td>
                     <td>$15.25</td>
                     <td>Appetizer</td>
@@ -84,7 +84,7 @@
                     <th><input type="checkbox" id="check-all" ></th>
                     <td>2</td>
                     <td>BonBon</td>
-                    <td><img src="../assets/images/logo.png" alt=""></td>
+                    <td><img src="./images/Ex.png" alt="" width="80" height="80"></td>
                     <td>Main Course was changed</td>
                     <td>$15.25</td>
                     <td>Main Course</td>
@@ -97,7 +97,7 @@
                     <th><input type="checkbox" id="check-all" ></th>
                     <td>3</td>
                     <td>Shad Decker</td>
-                    <td><img src="../assets/images/logo.png" alt=""></td>
+                    <td><img src="./images/Ex.png" alt="" width="80" height="80"></td>
                     <td>Desserts was changed</td>
                     <td>$15.25</td>
                     <td>Desserts</td>
@@ -110,7 +110,7 @@
                     <th><input type="checkbox" id="check-all" ></th>
                     <td>4</td>
                     <td>Shad Decker</td>
-                    <td><img src="../assets/images/logo.png" alt=""></td>
+                    <td><img src="./images/Ex.png" alt="" width="80" height="80"></td>
                     <td>Drink was changed</td>
                     <td>$15.25</td>
                     <td>Drink</td>

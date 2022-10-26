@@ -69,7 +69,7 @@
                           <th><input type="checkbox" id="check-all" class="jus"></th>
                           <td>1</td>
                           <td>Shad Decker</td>
-                          <td><img src="../assets/images/logo.png" alt=""></td>
+                          <td><img src="./images/Ex.png" alt="" width="80" height="80"></td>
                           <td>Admin</td>
                           <td>26/09/2022</td>
                           <td>26/09/2022</td>
@@ -81,7 +81,7 @@
                           <th><input type="checkbox" id="check-all" ></th>
                           <td>2</td>
                           <td>BonBon</td>
-                          <td><img src="../assets/images/logo.png" alt=""></td>
+                          <td><img src="./images/Ex.png" alt="" width="80" height="80"></td>
                           <td>User</td>
                           <td>26/09/2022</td>
                           <td>26/09/2022</td>
@@ -93,7 +93,7 @@
                           <th><input type="checkbox" id="check-all" ></th>
                           <td>3</td>
                           <td>Shad Decker</td>
-                          <td><img src="../assets/images/logo.png" alt=""></td>
+                          <td><img src="./images/Ex.png" alt="" width="80" height="80"></td>
                           <td>Admin</td>
                           <td>26/09/2022</td>
                           <td>26/09/2022</td>
@@ -105,7 +105,7 @@
                           <th><input type="checkbox" id="check-all" ></th>
                           <td>4</td>
                           <td>Shad Decker</td>
-                          <td><img src="../assets/images/logo.png" alt=""></td>
+                          <td><img src="./images/Ex.png" alt="" width="80" height="80"></td>
                           <td>User</td>
                           <td>26/09/2022</td>
                           <td>26/09/2022</td>

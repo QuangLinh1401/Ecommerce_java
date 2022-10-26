@@ -56,7 +56,7 @@
                           <th>Id</th>
                           <th>Name</th>
                           <th>Note</th>
-                          <th>Main Category</th>
+                          <th>Category Picture</th>
                           <th>Date create</th>
                           <th>Date update</th>
                           <th>Change</th>
@@ -69,7 +69,7 @@
                           <td>1</td>
                           <td>Shad Decker</td>
                           <td>Appetizer was changed</td>
-                          <td>Appetizer</td>
+                          <td><img src="./images/Ex.png" alt="" width="80" height="80"></td>
                           <td>26/09/2022</td>
                           <td>26/09/2022</td>
                           <td><button type="button" class="btn btn-outline-success">Change</button></td>
@@ -80,7 +80,7 @@
                           <td>2</td>
                           <td>BonBon</td>
                           <td>Main Course was changed</td>
-                          <td>Main Course</td>
+                          <td><img src="./images/Ex.png" alt="" width="80" height="80"></td>
                           <td>26/09/2022</td>
                           <td>26/09/2022</td>
                           <td><button type="button" class="btn btn-outline-success">Change</button></td>
@@ -91,7 +91,7 @@
                           <td>3</td>
                           <td>Shad Decker</td>
                           <td>Desserts was changed</td>
-                          <td>Desserts</td>
+                          <td><img src="./images/Ex.png" alt="" width="80" height="80"></td>
                           <td>26/09/2022</td>
                           <td>26/09/2022</td>
                           <td><button type="button" class="btn btn-outline-success">Change</button></td>
@@ -102,7 +102,7 @@
                           <td>4</td>
                           <td>Shad Decker</td>
                           <td>Drink was changed</td>
-                          <td>Drink</td>
+                          <td><img src="./images/Ex.png" alt="" width="80" height="80"></td>
                           <td>26/09/2022</td>
                           <td>26/09/2022</td>
                           <td><button type="button" class="btn btn-outline-success">Change</button></td>

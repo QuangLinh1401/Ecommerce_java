@@ -40,14 +40,13 @@
               <li><a href="../../contact.php">Contact</a></li>
             </ul>
           </li>
-          <li><a><i class="fa fa-edit"></i> Catalog Management <span class="fa fa-chevron-down"></span></a>
+          <li><a><i class="fa fa-desktop"></i> Catalog Management <span class="fa fa-chevron-down"></span></a>
             <ul class="nav child_menu">
               <li><a href="./category.php">Category Type</a></li>
               <li><a href="./product.php">Product</a></li>
             </ul>
           </li>
           <li><a href="./order.php"><i class="fa fa-edit"></i> Order Management </a></li>
-          <li><a href="./slider.php"><i class="fa fa-desktop"></i> UI Elements </a></li>
           <li><a href="./user.php"><i class="fa fa-user"></i> Information Manage </a>
           </li>
         </ul>
